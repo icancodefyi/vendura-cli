@@ -1,6 +1,6 @@
 {
   "name": "create-vendura-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Official CLI to scaffold a new Vendura app using the latest @venduraa/* packages.",
     "keywords": [
       "vendura",
@@ -9,7 +9,7 @@
       "create-app",
       "@venduraa"
     ],
-    "author": "Zaid Rakha <zaid@impiclabs.com>",
+    "author": "Zaid Rakhange <zaid@impiclabs.com>",
     "repository": {
       "type": "git",
       "url": "https://github.com/VenduraJS/vendura"
