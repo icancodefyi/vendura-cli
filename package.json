@@ -1,0 +1,28 @@
+{
+  "name": "create-vendura-app",
+  "version": "0.1.0",
+  "description": "Official CLI to scaffold a new Vendura app using the latest @venduraa/* packages.",
+    "keywords": [
+      "vendura",
+      "cli",
+      "scaffold",
+      "create-app",
+      "@venduraa"
+    ],
+    "author": "Zaid Rakha <zaid@impiclabs.com>",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/VenduraJS/vendura"
+    },
+    "homepage": "https://github.com/VenduraJS/vendura#readme",
+  "bin": {
+    "create-vendura-app": "./bin/create-vendura-app.js"
+  },
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "degit": "^2.8.4",
+    "prompts": "^2.4.2",
+    "fs-extra": "^11.2.0"
+  }
+}
